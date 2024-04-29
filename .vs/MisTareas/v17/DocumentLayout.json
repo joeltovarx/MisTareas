@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|solutionrelative:mistareas\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|solutionrelative:mistareas\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\views\\mantenedor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|solutionrelative:mistareas\\views\\mantenedor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\views\\home\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|solutionrelative:mistareas\\views\\home\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|solutionrelative:mistareas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|solutionrelative:mistareas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|solutionrelative:mistareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|solutionrelative:mistareas\\views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|solutionrelative:mistareas\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\views\\mantenedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|solutionrelative:mistareas\\views\\mantenedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\views\\mantenedor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|solutionrelative:mistareas\\views\\mantenedor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\datos\\tareasdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,18 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|solutionrelative:mistareas\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|solutionrelative:mistareas\\views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\views\\mantenedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|solutionrelative:mistareas\\views\\mantenedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|c:\\users\\ejtx_\\source\\repos\\mistareas\\mistareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06A1CFCD-569C-4F10-A292-43571BD1701F}|MisTareas\\MisTareas.csproj|solutionrelative:mistareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,37 +54,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Views\\Home\\_Login.cshtml",
+              "RelativeDocumentMoniker": "MisTareas\\Views\\Home\\_Login.cshtml",
+              "ToolTip": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Views\\Home\\_Login.cshtml",
+              "RelativeToolTip": "MisTareas\\Views\\Home\\_Login.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwB8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T21:15:16.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "MisTareas\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "MisTareas\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T21:24:54.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MisTareas\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MisTareas\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:39:53.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MisTareas\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MisTareas\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABVAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-29T18:46:33.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Eliminar.cshtml",
-              "DocumentMoniker": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Views\\Mantenedor\\Eliminar.cshtml",
-              "RelativeDocumentMoniker": "MisTareas\\Views\\Mantenedor\\Eliminar.cshtml",
-              "ToolTip": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Views\\Mantenedor\\Eliminar.cshtml",
-              "RelativeToolTip": "MisTareas\\Views\\Mantenedor\\Eliminar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T18:00:53.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Views\\Mantenedor\\Editar.cshtml",
               "RelativeDocumentMoniker": "MisTareas\\Views\\Mantenedor\\Editar.cshtml",
@@ -85,13 +123,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Listar.cshtml",
               "DocumentMoniker": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Views\\Mantenedor\\Listar.cshtml",
               "RelativeDocumentMoniker": "MisTareas\\Views\\Mantenedor\\Listar.cshtml",
               "ToolTip": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Views\\Mantenedor\\Listar.cshtml",
               "RelativeToolTip": "MisTareas\\Views\\Mantenedor\\Listar.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBwAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-29T16:08:13.306Z",
               "EditorCaption": ""
@@ -111,20 +149,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Program.cs",
               "RelativeDocumentMoniker": "MisTareas\\Program.cs",
               "ToolTip": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Program.cs",
               "RelativeToolTip": "MisTareas\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBkAAAA0AAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T14:07:37.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Views\\Mantenedor\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "MisTareas\\Views\\Mantenedor\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Views\\Mantenedor\\Eliminar.cshtml",
+              "RelativeToolTip": "MisTareas\\Views\\Mantenedor\\Eliminar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T18:00:53.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "TareasDatos.cs",
               "DocumentMoniker": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Datos\\TareasDatos.cs",
               "RelativeDocumentMoniker": "MisTareas\\Datos\\TareasDatos.cs",
@@ -132,12 +183,11 @@
               "RelativeToolTip": "MisTareas\\Datos\\TareasDatos.cs",
               "ViewState": "AQIAAHwAAAAAAAAAAAAAAH4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T08:16:47.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T08:16:47.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "MantenedorController.cs",
               "DocumentMoniker": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\Controllers\\MantenedorController.cs",
               "RelativeDocumentMoniker": "MisTareas\\Controllers\\MantenedorController.cs",
