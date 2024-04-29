@@ -1,12 +1,13 @@
-﻿namespace MisTareas.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace MisTareas.Models
 {
     public class TareasModel
     {
-        public int idTareas { get; set; }
+        public int idTarea { get; set; }
         public string? fecha { get; set; }
+        [Required(ErrorMessage ="El campo es obligatorio")]
         public string? descripcion { get; set; }
-        public int estado { get; set; }
-        public string? createdAt { get; set; }
-        public string? updatedAt { get; set; }
+        public string? estado { get; set; }
     }
 }

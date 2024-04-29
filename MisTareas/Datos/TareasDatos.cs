@@ -22,13 +22,10 @@ namespace MisTareas.Datos
                     while (dr.Read())
                     {
                         listaTareas.Add(new TareasModel() {
-                            idTareas = Convert.ToInt32(dr["idTarea"]),
+                            idTarea = Convert.ToInt32(dr["idTarea"]),
                             fecha = dr["fecha"].ToString(),
                             descripcion = dr["descripcion"].ToString(),
-                            estado = Convert.ToInt32(dr["estado"]),
-                            createdAt = dr["createdAt"].ToString(),
-                            updatedAt = dr["updatedAt"].ToString()
-
+                            estado = dr["estado"].ToString()
                         }) ;
                     }
                 }
@@ -53,12 +50,8 @@ namespace MisTareas.Datos
                 {
                     while (dr.Read())
                     {
-                        resultTarea.idTareas = Convert.ToInt32(dr["idTarea"]);
-                        resultTarea.fecha = dr["fecha"].ToString();
+                        resultTarea.idTarea = Convert.ToInt32(dr["idTarea"]);
                         resultTarea.descripcion = dr["descripcion"].ToString();
-                        resultTarea.estado = Convert.ToInt32(dr["estado"]);
-                        resultTarea.createdAt = dr["createdAt"].ToString();
-                        resultTarea.updatedAt = dr["updatedAt"].ToString();
                     }
                 }
 
@@ -66,5 +59,100 @@ namespace MisTareas.Datos
             }
         }
 
+        public bool crearTarea(TareasModel objTarea)
+        {
+            bool resp;
+
+            try
+            {
+
+                var conn = new Conexion();
+
+                using (var conexion = new SqlConnection(conn.GetCadenaSQL()))
+                {
+                    conexion.Open();
+                    SqlCommand cmd = new SqlCommand("sp_crear_tarea", conexion);
+                    cmd.Parameters.AddWithValue("descripcion", objTarea.descripcion);
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    cmd.ExecuteNonQuery();
+
+                }
+
+                resp = true;
+
+            }
+            catch(Exception e){
+                string error = e.Message;
+                resp = false;
+            }
+
+            return resp;
+        }
+
+        public bool modificarTarea(TareasModel objTarea)
+        {
+            bool resp;
+
+            try
+            {
+
+                var conn = new Conexion();
+
+                using (var conexion = new SqlConnection(conn.GetCadenaSQL()))
+                {
+                    conexion.Open();
+                    SqlCommand cmd = new SqlCommand("sp_modificar_tarea", conexion);
+                    cmd.Parameters.AddWithValue("idTarea", objTarea.idTarea);
+                    cmd.Parameters.AddWithValue("descripcion", objTarea.descripcion);
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    cmd.ExecuteNonQuery();
+
+                }
+
+                resp = true;
+
+            }
+            catch (Exception e)
+            {
+                string error = e.Message;
+                resp = false;
+            }
+
+            return resp;
+        }
+
+        public bool eliminarTarea(int idTarea)
+        {
+            bool resp;
+
+            try
+            {
+
+                var conn = new Conexion();
+
+                using (var conexion = new SqlConnection(conn.GetCadenaSQL()))
+                {
+                    conexion.Open();
+                    SqlCommand cmd = new SqlCommand("sp_anular_tarea", conexion);
+                    cmd.Parameters.AddWithValue("idTarea", idTarea);
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    cmd.ExecuteNonQuery();
+
+                }
+
+                resp = true;
+
+            }
+            catch (Exception e)
+            {
+                string error = e.Message;
+                resp = false;
+            }
+
+            return resp;
+        }
     }
 }

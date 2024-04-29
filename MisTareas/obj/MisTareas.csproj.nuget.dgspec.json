@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ejtx_\\OneDrive\\Desktop\\bk\\source\\repos\\MisTareas\\MisTareas\\MisTareas.csproj": {}
+    "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\MisTareas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ejtx_\\OneDrive\\Desktop\\bk\\source\\repos\\MisTareas\\MisTareas\\MisTareas.csproj": {
+    "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\MisTareas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ejtx_\\OneDrive\\Desktop\\bk\\source\\repos\\MisTareas\\MisTareas\\MisTareas.csproj",
+        "projectUniqueName": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\MisTareas.csproj",
         "projectName": "MisTareas",
-        "projectPath": "C:\\Users\\ejtx_\\OneDrive\\Desktop\\bk\\source\\repos\\MisTareas\\MisTareas\\MisTareas.csproj",
+        "projectPath": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\MisTareas.csproj",
         "packagesPath": "C:\\Users\\ejtx_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ejtx_\\OneDrive\\Desktop\\bk\\source\\repos\\MisTareas\\MisTareas\\obj\\",
+        "outputPath": "C:\\Users\\ejtx_\\source\\repos\\MisTareas\\MisTareas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ejtx_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.6, )"
